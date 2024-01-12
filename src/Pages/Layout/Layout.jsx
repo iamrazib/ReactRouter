@@ -9,7 +9,7 @@ export const Layout = () => {
           <main className="h-[100vh] w-[100%]">
               <Outlet/>
           </main>
-          <Footer/>
+          {/* <Footer/> */}
       </div>
   )
 }
